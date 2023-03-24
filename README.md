@@ -1,6 +1,23 @@
-###
+### Здравствуйте!
 <div id="header" align="center">
   <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="500"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-Hexlet-URL">
+    <img src="https://img.shields.io/badge/Hexlet-white?style=for-the-badge" alt="Youtube Badge"/>
+  </a>
+  <a href="your-HeadHunter-URL">
+    <img src="https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <a href="your-Habr-URL">
+    <img src="https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <a href="your-Telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <!--
@@ -17,3 +34,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+https://img.shields.io/badge/Hexlet-white?style=for-the-badge
+https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=for-the-badge
+https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge
