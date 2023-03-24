@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=social" alt="Habr Badge"/>
   </a>
   <a href="https://t.me/Kul_Kir">
-    <img src="https://img.shields.io/badge/Telegram-white?logo=#26A5E4" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/?logo=#26A5E4" alt="Telegram Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
