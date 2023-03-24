@@ -3,19 +3,19 @@
   <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="500"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/kirill-kulikov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-Hexlet-URL">
+  <a href="https://ru.hexlet.io/u/kk">
     <img src="https://img.shields.io/badge/Hexlet-white?style=for-the-badge" alt="Hexlet Badge"/>
   </a>
-  <a href="your-HeadHunter-URL">
+  <a href="https://chelyabinsk.hh.ru/resume/ed17a58bff0b36853d0039ed1f726642547769">
     <img src="https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge" alt="HeadHunter Badge"/>
   </a>
-  <a href="your-Habr-URL">
+  <a href="https://career.habr.com/kirito74">
     <img src="https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
   </a>
-  <a href="your-Telegram-URL">
+  <a href="https://t.me/Kul_Kir">
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
