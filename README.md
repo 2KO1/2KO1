@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kirill-kulikov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIn Badge"/>
   </a>
   <a href="https://ru.hexlet.io/u/kk">
     <img src="https://img.shields.io/badge/Hexlet-lightgrey?style=for-the-badge" alt="Hexlet Badge"/>
