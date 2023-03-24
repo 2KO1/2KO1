@@ -4,19 +4,19 @@
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="your-Hexlet-URL">
-    <img src="https://img.shields.io/badge/Hexlet-white?style=for-the-badge" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Hexlet-white?style=for-the-badge" alt="Hexlet Badge"/>
   </a>
   <a href="your-HeadHunter-URL">
-    <img src="https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge" alt="HeadHunter Badge"/>
   </a>
   <a href="your-Habr-URL">
-    <img src="https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
   </a>
   <a href="your-Telegram-URL">
-    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
 
