@@ -1,6 +1,6 @@
 ### Hi there
 <div id="header" align="center">
-  <img src="https://tenor.com/view/internet-gif-5135666" width="100"/>
+  <img src="https://tenor.com/view/internet-gif-5135666.gif" width="100"/>
 </div>
 
 <!--
