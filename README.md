@@ -1,6 +1,6 @@
 ###
 <div id="header" align="center">
-  <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="100"/>
+  <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="400"/>
 </div>
 
 <!--
