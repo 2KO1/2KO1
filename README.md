@@ -1,4 +1,3 @@
-### Здравствуйте!
 <div id="header" align="center">
   <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="450"/>
 </div>
@@ -38,10 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=social
-
-https://img.shields.io/badge/HeadHunter-critical?style=for-the-badge
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/Hexlet-white?style=for-the-badge
-https://img.shields.io/badge/Habr-blueviolet?logo=Habr&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge
