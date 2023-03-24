@@ -1,6 +1,6 @@
 ### Здравствуйте!
 <div id="header" align="center">
-  <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="500"/>
+  <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="450"/>
 </div>
 
 <div id="badges">
