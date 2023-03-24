@@ -1,4 +1,5 @@
-#### Hello, my name is Kirill, I'm starting my journey in QA.
+### Hello, my name is Kirill, I'm starting my journey in QA.
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/mq5y2jHRCAqMo/giphy.gif?cid=ecf05e47sy2qbsyjncgatzqc68ynoe0su8ugf2wrw85bsu03&rid=giphy.gif" width="450"/>
 </div>
@@ -23,6 +24,9 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=2KO1&style=flat&color=blue" alt=""/>
 </div>
+
+⚡ Закончил учебу по направлению QA в школе программирования Хекслет. Сейчас в поиске работы или стажировки, буду рад любым предложениям! ⚡
+---
 
 <!--
 **2KO1/2KO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
