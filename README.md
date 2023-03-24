@@ -20,8 +20,9 @@
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=2KO1&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **2KO1/2KO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
