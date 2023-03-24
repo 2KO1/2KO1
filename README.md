@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="450"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kirill-kulikov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
