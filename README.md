@@ -27,7 +27,12 @@
 
 ⚡ Закончил учебу по направлению QA в школе программирования Хекслет. Сейчас в поиске работы или стажировки, буду рад любым предложениям! ⚡
 ---
+### :hammer_and_wrench: Tools :
 
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=2KO1&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **2KO1/2KO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
