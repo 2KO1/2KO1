@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there
+<div id="header" align="center">
+  <img src="https://tenor.com/view/internet-gif-5135666" width="100"/>
+</div>
 
 <!--
 **2KO1/2KO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
