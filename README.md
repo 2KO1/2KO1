@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/41J3A6rJl0wAAAAd/internet.gif" width="500"/>
 </div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/kirill-kulikov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -19,6 +20,8 @@
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=2KO1&style=flat-square&color=blue" alt=""/>
 
 <!--
 **2KO1/2KO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
