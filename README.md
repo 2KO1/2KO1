@@ -67,6 +67,11 @@
 
 ### My CV
 
+<div id="badges" align="center">  
+<li>
+  <a href="https://drive.google.com/file/d/17PQLi1Co0jyST6alqbICrhVVckWsqE6_/view?usp=sharing"> Click </a>
+</li>
+</div>
 
 
 
