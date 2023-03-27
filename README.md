@@ -65,13 +65,10 @@
 
 ---
 
-### My CV
-
-<div id="badges" align="center">  
-<li>
-  <a href="https://drive.google.com/file/d/1dfyakZnP8PH5SFYBKiJyRbKhioCF3z3U/view?usp=sharing"> Click </a>
-</li>
-</div>
+<div id="badges" align="center">
+  <a href="https://drive.google.com/file/d/1dfyakZnP8PH5SFYBKiJyRbKhioCF3z3U/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My%20CV-brightgreen?&logoColor=white&style=for-the-badge" alt="My CV"/>
+  </a>
 
 
 
