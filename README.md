@@ -66,7 +66,7 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://drive.google.com/file/d/1dfyakZnP8PH5SFYBKiJyRbKhioCF3z3U/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1TddzjmjY3W_xTmV72xhi9aRwfrfBTpON/view?usp=share_link">
     <img src="https://img.shields.io/badge/My%20CV-brightgreen?&logoColor=white&style=for-the-badge" alt="My CV"/>
   </a>
 
